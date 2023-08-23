@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "JavaScript-Drumkit",
+			"path": "."
+		},
+		{
+			"name": "sounds",
+			"path": "../JavaScript3030/01 - JavaScript Drum Kit/sounds"
+		}
+	],
+	"settings": {}
+}
